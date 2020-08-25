@@ -1,0 +1,14 @@
+{
+    "name": "cynux/laravel-shopify-jwt",
+    "description": "Shopify JWT Auth for Laravel",
+    "type": "library",
+    "require": {
+        "tymon/jwt-auth": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Daljeet Singh",
+            "email": "d.singh@cynux.com"
+        }
+    ]
+}
